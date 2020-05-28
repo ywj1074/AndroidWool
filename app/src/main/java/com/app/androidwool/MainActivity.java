@@ -1,8 +1,10 @@
-package com.example.androidwool;
+package com.app.androidwool;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.androidwool.R;
 
 public class MainActivity extends AppCompatActivity {
 
