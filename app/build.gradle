@@ -32,5 +32,10 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    implementation 'com.just.agentweb:agentweb:2.0.0'
+    implementation 'com.just.agentweb:agentweb:4.1.3' // (必须)
+    implementation 'com.just.agentweb:filechooser:4.1.3'// (非必须)
+    implementation 'com.download.library:Downloader:4.1.3'// (非必须)
+
+    implementation 'com.squareup.picasso:picasso:2.5.2'//(图片)
+    implementation 'com.github.open-android:RoundedImageView:v1.0.0'//圆角 方角头像
 }
